@@ -1,0 +1,51 @@
+/*
+  @theme Sidetracked
+  @override-placeholders html, xml, css, js, php
+  @author Ported by Xac Stegner from Ryan Bates' Railscasts TextMate theme
+*/
+ 
+@base {
+  color: #ddd;
+  background-color: #222;
+  insertion-point-color: #fff;
+  selection-background-color: #50586F;
+}
+ 
+metadata { color: rgba(255, 0, 0, 1.00); }
+
+comment.block.css *, comment punctuation.definition , comment.line, comment.block, metadata.comment, delimiter.comment,metadata > comment { color: rgba(186, 149, 89, .50); }
+keyword, storage.type { color: rgba(186, 149, 89, 1.00); }
+literal.string.heredoc { color: rgba(255, 0, 0, 1.00); }
+keyword.control { color: rgba(200, 121, 54, 1.00); }
+literal.keyword, support { color: rgba(112, 155, 190, 1.00); }
+operator { color: rgba(200, 121, 54, 1.00); }
+container.block { color: rgba(255, 0, 0, 1.00); }
+container.function { color: rgba(251, 199, 111, 1.00); }
+identifier.variable { color: rgba(255, 0, 0, 1.00); }
+literal { color: rgba(112, 155, 190, 1.00); }
+literal.numeric, integral.value { color: rgba(164, 194, 97, 1.00); }
+literal.string { color: rgba(164, 194, 97, 1.00); }
+identifier,variable.language { color: rgba(255, 255, 255, 1.00); }
+keyword { color: rgba(200, 121, 54, 1.00); }
+
+/*container { background: rgba(255, 0, 0, 0.33); } */
+delimiter { color: rgba(164, 194, 97, 1.00); }
+attribute-name,  property-name {
+  color: rgba(200, 121, 54, 1.00);
+}
+string {
+  color: rgba(164, 194, 97, 1.00);
+}
+ 
+tag > punctuation {
+    color: rgba(112, 155, 190, 0.50);  
+}
+ 
+entity.name,
+tag > name {
+  color: rgba(112, 155, 190, 1.00);
+  background-color: rgba(255, 255, 255, 0.0);
+}
+selector {
+  color: rgba(112, 155, 190, 1.00);
+}
