@@ -1,7 +1,7 @@
 
 # Sidetracked
       
-  Stylish code style that started out as a port of Railscast.
+  Stylish, Railscast inspired color scheme for various text/code editors.
 
 ## Installation
 
@@ -19,7 +19,7 @@ Xcode 4:
 
 ## Contributors
 
-The following are the major contributors of Express (in no specific order).
+The following are the major contributors of Sidetracked (in no specific order).
 
   * Nicholas Penree ([drudge](http://github.com/drudge))
 
