@@ -2,6 +2,7 @@
 # Sidetracked
       
   Stylish, Railscast inspired color scheme for various text/code editors.
+<img src=http://github.com/drudge/Sidetracked/raw/master/Preview.png" />
 
 ## Installation
 
