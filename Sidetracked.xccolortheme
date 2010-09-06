@@ -61,7 +61,7 @@
 		<key>xcode.syntax.plain</key>
 		<string>0.835 0.835 0.835</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.479 0.610 0.145</string>
+		<string>1.000 0.839 0.490</string>
 		<key>xcode.syntax.string</key>
 		<string>0.479 0.610 0.145</string>
 		<key>xcode.syntax.url</key>
@@ -72,27 +72,27 @@
 	<key>Fonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Consolas - 12.0</string>
+		<string>Menlo-Regular - 11.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Consolas - 12.0</string>
+		<string>Menlo-Regular - 11.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Consolas - 12.0</string>
+		<string>Menlo-Regular - 11.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Consolas - 12.0</string>
+		<string>Menlo-Regular - 11.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Consolas - 12.0</string>
+		<string>Menlo-Regular - 11.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Consolas - 12.0</string>
+		<string>Menlo-Regular - 11.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Consolas - 12.0</string>
+		<string>Menlo-Regular - 11.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Consolas - 12.0</string>
+		<string>Menlo-Regular - 11.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Consolas - 12.0</string>
+		<string>Menlo-Regular - 11.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Consolas - 12.0</string>
+		<string>Menlo-Regular - 11.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Consolas - 12.0</string>
+		<string>Menlo-Regular - 11.0</string>
 	</dict>
 </dict>
 </plist>
