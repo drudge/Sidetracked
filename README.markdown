@@ -1,4 +1,3 @@
-
 # Sidetracked
       
   Stylish, Railscast inspired color scheme for various text/code editors.
@@ -12,10 +11,12 @@ Espresso:
 
 Xcode 3:
 
+    $ mkdir -p $HOME/Library/Application\ Support/Xcode/Color\ Themes/
     $ cp Sidetracked.xccolortheme $HOME/Library/Application\ Support/Xcode/Color\ Themes/
 
 Xcode 4:
 
+    $ mkdir -p $HOME/Library/Application\ Support/Xcode/Color\ Themes/
     $ cp Sidetracked.dvtcolortheme $HOME/Library/Developer/Xcode/UserData/FontAndColorThemes/
 
 ## Contributors
