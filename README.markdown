@@ -24,6 +24,7 @@ Xcode 4:
 The following are the major contributors of Sidetracked (in no specific order).
 
   * Nicholas Penree ([drudge](http://github.com/drudge))
+  * Xac Stegner ([withanx](http://twitter.com/withanx))
 
 ## License 
 
