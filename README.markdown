@@ -16,7 +16,7 @@ Xcode 3:
 
 Xcode 4:
 
-    $ mkdir -p $HOME/Library/Application\ Support/Xcode/Color\ Themes/
+    $ mkdir -p $HOME/Library/Developer/Xcode/UserData/FontAndColorThemes/
     $ cp Sidetracked.dvtcolortheme $HOME/Library/Developer/Xcode/UserData/FontAndColorThemes/
 
 ## Contributors
