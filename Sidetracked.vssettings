@@ -1,0 +1,44 @@
+<UserSettings>
+	<ApplicationIdentity version="10.0"/>
+	<ToolsOptions>
+		<ToolsOptionsCategory name="Environment" RegisteredName="Environment"/>
+	</ToolsOptions>
+	<Category name="Database Tools" RegisteredName="Database Tools"/>
+	<Category name="Environment_Group" RegisteredName="Environment_Group">
+		<Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="Version">2</PropertyValue>
+			<FontsAndColors Version="2.0">
+				<Categories>
+					<Category GUID="{47724E70-AF55-48FB-A928-BB161C1D0C05}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="C/C++ User Keywords" Foreground="0x00005EBB" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Keyword" Foreground="0x00005EBB" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Keyword" Foreground="0x00005EBB" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Number" Foreground="0x0016DA47" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script Keyword" Foreground="0x00005EBB" Background="0x02000000" BoldFont="No"/>
+							<Item Name="String" Foreground="0x0016DA47" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x00FFFFFF" Background="0x00272727" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x00C16100" BoldFont="No"/>
+							<Item Name="Line Numbers" Foreground="0x006A6A6A" Background="0x00E3E3E3" BoldFont="No"/>
+							<Item Name="C/C++ User Keywords" Foreground="0x003067AD" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Comment" Foreground="0x003C5A6A" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Keyword" Foreground="0x003067AD" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Keyword" Foreground="0x003067AD" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Number" Foreground="0x0061C2A4" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Preprocessor Keyword" Foreground="0x005E5A55" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script String" Foreground="0x0061C2A4" Background="0x02000000" BoldFont="No"/>
+							<Item Name="String" Foreground="0x0061C2A4" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SymbolDefinitionClassificationFormat" Foreground="0x00AF8A65" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Text" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="User Types" Foreground="0x00AF8A65" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+				</Categories>
+			</FontsAndColors>
+		</Category>
+	</Category>
+</UserSettings>
