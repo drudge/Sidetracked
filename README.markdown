@@ -18,6 +18,11 @@ Xcode 4:
 
     $ mkdir -p $HOME/Library/Developer/Xcode/UserData/FontAndColorThemes/
     $ cp Sidetracked.dvtcolortheme $HOME/Library/Developer/Xcode/UserData/FontAndColorThemes/
+    
+Coda 2:
+
+    $ mkdir -p $HOME/Library/Application\ Support/Coda\ 2/Styles/
+    $ cp Sidetracked.sss $HOME/Library/Application\ Support/Coda\ 2/Styles/
 
 ## Contributors
 
