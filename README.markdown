@@ -25,8 +25,9 @@ Coda 2:
     $ cp Sidetracked.sss $HOME/Library/Application\ Support/Coda\ 2/Styles/
 
 VIM:
-	$ mkdir -p $HOME/.vim/colors
-	$ cp sidetracked.vim $HOME/.vim/colors
+
+    $ mkdir -p $HOME/.vim/colors
+    $ cp sidetracked.vim $HOME/.vim/colors
 
 ## Contributors
 
