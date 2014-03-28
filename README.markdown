@@ -28,6 +28,11 @@ VIM:
 
     $ mkdir -p $HOME/.vim/colors
     $ cp sidetracked.vim $HOME/.vim/colors
+    
+Sublime Text 2:
+
+    $ mkdir -p $HOME/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
+    $ cp Sidetracked.tmTheme $HOME/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
 
 ## Contributors
 
