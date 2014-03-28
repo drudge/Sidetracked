@@ -24,6 +24,10 @@ Coda 2:
     $ mkdir -p $HOME/Library/Application\ Support/Coda\ 2/Styles/
     $ cp Sidetracked.sss $HOME/Library/Application\ Support/Coda\ 2/Styles/
 
+VIM:
+	$ mkdir -p $HOME/.vim/colors
+	$ cp sidetracked.vim $HOME/.vim/colors
+
 ## Contributors
 
 The following are the major contributors of Sidetracked (in no specific order).
